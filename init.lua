@@ -115,3 +115,11 @@ minetest.register_node("fakery:table", {
 			craft(pos)
 		end	
 })
+minetest.register_craft({
+		output = "fakery:table",
+		recipe = {
+			{"default:sword_steel", "default:pick_steel", "default:axe_steel"},
+			{"default:desert_sandstone_block", "default:bronzeblock", "default:desert_sandstone_block"},
+			{"default:desert_sandstone_block", "default:bronzeblock", "default:desert_sandstone_block"}
+		}
+})
