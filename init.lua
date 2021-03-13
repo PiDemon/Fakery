@@ -19,7 +19,7 @@ if minetest.get_modpath("cloud_items") then
 	})
 end
 if minetest.get_modpath("lavastuff") then
-	minetest.register_craftitem("fakery:cloud", {
+	minetest.register_craftitem("fakery:lava", {
 		description = "Lava Ingot",
 		inventory_image = "lavastuff_ingot.png",
 	})
