@@ -1,3 +1,4 @@
+[![ContentDB](https://content.minetest.net/packages/cool_beans/fakery/shields/downloads/)](https://content.minetest.net/packages/cool_beans/fakery/)
 # Fakery
 Try to rip off your friends and counterfeit diamonds with this mod for minetest!
 ### Features:
